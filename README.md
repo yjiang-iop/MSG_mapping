@@ -2,10 +2,12 @@
 
 1. Usage of generate_mapping.py:
 
-    python generate_mapping msg_num ind_set
+        python generate_mapping msg_num ind_set
     
    where msg_num is a str denoting the BNS number of a magnetic space group, e.g., '2.4'.
    
-   and ind_set is a list of indicator, e.g., '[1,1,2]'.
+   and ind_set is a list of indicator, e.g., '[1,1,1,2]'.
 
-2. 
+2. mapping_table.pdf is a pdf file of all the mappings in magnetic space groups.
+
+   The latex file of this table can be generated using the print_table_in_latex() function in generate_mapping.py
