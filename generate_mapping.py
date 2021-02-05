@@ -98,9 +98,6 @@ def print_table_in_latex():
     save_file.close()
 
 
-print_table_in_latex()
-exit()
-
 def load_data(msg_num, input_SI = None):
     # Function used to print the required mapping data for an MSG
     # For a given MSG and an SI set, find the corresponding invariant sets
