@@ -1,0 +1,171 @@
+Shubnikov SG (BNS number): 146.10   SSG type:  1   Unitary subgroup:  146
+Irreducible co-representation (co-irrep) data of HSPs:
+
+BNS number: 146.10  HSP: F
+  k = ( 0.000  0.500  1.000) (conv)  ( 0.500  0.500  0.000) (prim) 
+
+Symmetry operations:
+op:   0 (conv)
+  O(3):  [   1    0    0]
+         [   0    1    0]
+         [   0    0    1]
+  tau:   ( 0.00000  0.00000  0.00000)
+  SU(2): [( 1.00000 +  0.00000 *I)  ( 0.00000 +  0.00000 *I)] 
+         [( 0.00000 +  0.00000 *I)  ( 1.00000 +  0.00000 *I)] 
+
+
+Antiunitary_op: not exist
+
+---------------------------------------------------------
+
+BNS number:  146.10   co-irrep label:  F1   Dim:  1
+Representation matrices:
+nop: 0
+[  ( 1.00000 +        0 *I)  ]
+
+BNS number:  146.10   co-irrep label:  F2d   Dim:  1
+Representation matrices:
+nop: 0
+[  ( 1.00000 +        0 *I)  ]
+
+
+
+*********************************************************
+
+
+BNS number: 146.10  HSP: GM
+  k = ( 0.000  0.000  0.000) (conv)  ( 0.000  0.000  0.000) (prim) 
+
+Symmetry operations:
+op:   1 (conv)
+  O(3):  [   0   -1    0]
+         [   1   -1    0]
+         [   0    0    1]
+  tau:   ( 0.00000  0.00000  0.00000)
+  SU(2): [( 0.50000 +  0.86603 *I)  ( 0.00000 +  0.00000 *I)] 
+         [( 0.00000 +  0.00000 *I)  ( 0.50000 + -0.86603 *I)] 
+
+
+Antiunitary_op: not exist
+
+---------------------------------------------------------
+
+BNS number:  146.10   co-irrep label:  GM1   Dim:  1
+Representation matrices:
+nop: 1
+[  ( 1.00000 +        0 *I)  ]
+
+BNS number:  146.10   co-irrep label:  GM2   Dim:  1
+Representation matrices:
+nop: 1
+[  (-0.50000 +  0.86603 *I)  ]
+
+BNS number:  146.10   co-irrep label:  GM3   Dim:  1
+Representation matrices:
+nop: 1
+[  (-0.50000 + -0.86603 *I)  ]
+
+BNS number:  146.10   co-irrep label:  GM4d   Dim:  1
+Representation matrices:
+nop: 1
+[  (-1.00000 +        0 *I)  ]
+
+BNS number:  146.10   co-irrep label:  GM5d   Dim:  1
+Representation matrices:
+nop: 1
+[  ( 0.50000 + -0.86603 *I)  ]
+
+BNS number:  146.10   co-irrep label:  GM6d   Dim:  1
+Representation matrices:
+nop: 1
+[  ( 0.50000 +  0.86603 *I)  ]
+
+
+
+*********************************************************
+
+
+BNS number: 146.10  HSP: L
+  k = (-0.500  0.500  0.500) (conv)  ( 0.000  0.500  0.000) (prim) 
+
+Symmetry operations:
+op:   0 (conv)
+  O(3):  [   1    0    0]
+         [   0    1    0]
+         [   0    0    1]
+  tau:   ( 0.00000  0.00000  0.00000)
+  SU(2): [( 1.00000 +  0.00000 *I)  ( 0.00000 +  0.00000 *I)] 
+         [( 0.00000 +  0.00000 *I)  ( 1.00000 +  0.00000 *I)] 
+
+
+Antiunitary_op: not exist
+
+---------------------------------------------------------
+
+BNS number:  146.10   co-irrep label:  L1   Dim:  1
+Representation matrices:
+nop: 0
+[  ( 1.00000 +        0 *I)  ]
+
+BNS number:  146.10   co-irrep label:  L2d   Dim:  1
+Representation matrices:
+nop: 0
+[  ( 1.00000 +        0 *I)  ]
+
+
+
+*********************************************************
+
+
+BNS number: 146.10  HSP: T
+  k = ( 0.000  0.000  1.500) (conv)  ( 0.500  0.500  0.500) (prim) 
+
+Symmetry operations:
+op:   1 (conv)
+  O(3):  [   0   -1    0]
+         [   1   -1    0]
+         [   0    0    1]
+  tau:   ( 0.00000  0.00000  0.00000)
+  SU(2): [( 0.50000 +  0.86603 *I)  ( 0.00000 +  0.00000 *I)] 
+         [( 0.00000 +  0.00000 *I)  ( 0.50000 + -0.86603 *I)] 
+
+
+Antiunitary_op: not exist
+
+---------------------------------------------------------
+
+BNS number:  146.10   co-irrep label:  T1   Dim:  1
+Representation matrices:
+nop: 1
+[  ( 1.00000 +        0 *I)  ]
+
+BNS number:  146.10   co-irrep label:  T2   Dim:  1
+Representation matrices:
+nop: 1
+[  (-0.50000 +  0.86603 *I)  ]
+
+BNS number:  146.10   co-irrep label:  T3   Dim:  1
+Representation matrices:
+nop: 1
+[  (-0.50000 + -0.86603 *I)  ]
+
+BNS number:  146.10   co-irrep label:  T4d   Dim:  1
+Representation matrices:
+nop: 1
+[  (-1.00000 +        0 *I)  ]
+
+BNS number:  146.10   co-irrep label:  T5d   Dim:  1
+Representation matrices:
+nop: 1
+[  ( 0.50000 + -0.86603 *I)  ]
+
+BNS number:  146.10   co-irrep label:  T6d   Dim:  1
+Representation matrices:
+nop: 1
+[  ( 0.50000 +  0.86603 *I)  ]
+
+
+
+*********************************************************
+
+

@@ -1,0 +1,415 @@
+Shubnikov SG (BNS number): 41.214   SSG type:  3   Unitary subgroup:  7
+Irreducible co-representation (co-irrep) data of HSPs:
+
+BNS number: 41.214  HSP: A
+  k = ( 0.000  0.500 -0.500) (conv)  ( 0.000  0.000 -0.500) (prim) 
+
+Symmetry operations:
+op:   1 (conv)
+  O(3):  [  -1    0    0]
+         [   0    1    0]
+         [   0    0    1]
+  tau:   ( 0.50000  0.00000  0.50000)
+  SU(2): [( 0.00000 +  0.00000 *I)  (-0.00000 + -1.00000 *I)] 
+         [(-0.00000 + -1.00000 *I)  ( 0.00000 +  0.00000 *I)] 
+
+
+Antiunitary_op: not exist
+
+---------------------------------------------------------
+
+BNS number:  41.214   co-irrep label:  A1   Dim:  1
+Representation matrices:
+nop: 1
+[  (       0 + -1.00000 *I)  ]
+
+BNS number:  41.214   co-irrep label:  A2   Dim:  1
+Representation matrices:
+nop: 1
+[  (       0 +  1.00000 *I)  ]
+
+BNS number:  41.214   co-irrep label:  A3d   Dim:  1
+Representation matrices:
+nop: 1
+[  (-1.00000 +        0 *I)  ]
+
+BNS number:  41.214   co-irrep label:  A4d   Dim:  1
+Representation matrices:
+nop: 1
+[  ( 1.00000 +        0 *I)  ]
+
+
+
+*********************************************************
+
+
+BNS number: 41.214  HSP: B
+  k = ( 0.000  0.500  0.500) (conv)  ( 0.000  0.500  0.000) (prim) 
+
+Symmetry operations:
+op:   1 (conv)
+  O(3):  [  -1    0    0]
+         [   0    1    0]
+         [   0    0    1]
+  tau:   ( 0.50000  0.00000  0.50000)
+  SU(2): [( 0.00000 +  0.00000 *I)  (-0.00000 + -1.00000 *I)] 
+         [(-0.00000 + -1.00000 *I)  ( 0.00000 +  0.00000 *I)] 
+
+
+Antiunitary_op: not exist
+
+---------------------------------------------------------
+
+BNS number:  41.214   co-irrep label:  B1   Dim:  1
+Representation matrices:
+nop: 1
+[  (       0 +  1.00000 *I)  ]
+
+BNS number:  41.214   co-irrep label:  B2   Dim:  1
+Representation matrices:
+nop: 1
+[  (       0 + -1.00000 *I)  ]
+
+BNS number:  41.214   co-irrep label:  B3d   Dim:  1
+Representation matrices:
+nop: 1
+[  ( 1.00000 +        0 *I)  ]
+
+BNS number:  41.214   co-irrep label:  B4d   Dim:  1
+Representation matrices:
+nop: 1
+[  (-1.00000 +        0 *I)  ]
+
+
+
+*********************************************************
+
+
+BNS number: 41.214  HSP: C
+  k = ( 0.500  0.000 -1.000) (conv)  ( 0.500 -0.500 -0.500) (prim) 
+
+Symmetry operations:
+op:   1 (conv)
+  O(3):  [  -1    0    0]
+         [   0    1    0]
+         [   0    0    1]
+  tau:   ( 0.50000  0.00000  0.50000)
+  SU(2): [( 0.00000 +  0.00000 *I)  (-0.00000 + -1.00000 *I)] 
+         [(-0.00000 + -1.00000 *I)  ( 0.00000 +  0.00000 *I)] 
+
+
+Antiunitary_op: Tg (conv)
+  O(3):  [  -1    0    0]
+         [   0   -1    0]
+         [   0    0    1]
+  tau:   ( 0.00000  0.00000  0.00000)
+  SU(2): [( 0.00000 +  0.00000 *I)  ( 0.00000 + -1.00000 *I)] 
+         [( 0.00000 + -1.00000 *I)  ( 0.00000 +  0.00000 *I)] 
+
+
+---------------------------------------------------------
+
+BNS number:  41.214   co-irrep label:  C1_C2   Dim:  2
+Representation matrices:
+nop: 1
+[  (-1.00000 +        0 *I)            0               ]
+[            0               ( 1.00000 +        0 *I)  ]
+
+Antiunitary_op:
+[            0               ( 1.00000 +        0 *I)  ]
+[  ( 1.00000 +        0 *I)            0               ]
+
+---------------------------------------------------------
+
+BNS number:  41.214   co-irrep label:  C3d_C4d   Dim:  2
+Representation matrices:
+nop: 1
+[  (       0 +  1.00000 *I)            0               ]
+[            0               (       0 + -1.00000 *I)  ]
+
+Antiunitary_op:
+[            0               ( 1.00000 +        0 *I)  ]
+[  ( 1.00000 +        0 *I)            0               ]
+
+---------------------------------------------------------
+
+
+
+*********************************************************
+
+
+BNS number: 41.214  HSP: D
+  k = (-0.500  0.500  0.500) (conv)  (-0.500  0.500  0.000) (prim) 
+
+Symmetry operations:
+op:   1 (conv)
+  O(3):  [  -1    0    0]
+         [   0    1    0]
+         [   0    0    1]
+  tau:   ( 0.50000  0.00000  0.50000)
+  SU(2): [( 0.00000 +  0.00000 *I)  (-0.00000 + -1.00000 *I)] 
+         [(-0.00000 + -1.00000 *I)  ( 0.00000 +  0.00000 *I)] 
+
+
+Antiunitary_op: not exist
+
+---------------------------------------------------------
+
+BNS number:  41.214   co-irrep label:  D1   Dim:  1
+Representation matrices:
+nop: 1
+[  (       0 + -1.00000 *I)  ]
+
+BNS number:  41.214   co-irrep label:  D2   Dim:  1
+Representation matrices:
+nop: 1
+[  (       0 +  1.00000 *I)  ]
+
+BNS number:  41.214   co-irrep label:  D3d   Dim:  1
+Representation matrices:
+nop: 1
+[  (-1.00000 +        0 *I)  ]
+
+BNS number:  41.214   co-irrep label:  D4d   Dim:  1
+Representation matrices:
+nop: 1
+[  ( 1.00000 +        0 *I)  ]
+
+
+
+*********************************************************
+
+
+BNS number: 41.214  HSP: E
+  k = ( 0.500  0.500 -0.500) (conv)  ( 0.500  0.000 -0.500) (prim) 
+
+Symmetry operations:
+op:   1 (conv)
+  O(3):  [  -1    0    0]
+         [   0    1    0]
+         [   0    0    1]
+  tau:   ( 0.50000  0.00000  0.50000)
+  SU(2): [( 0.00000 +  0.00000 *I)  (-0.00000 + -1.00000 *I)] 
+         [(-0.00000 + -1.00000 *I)  ( 0.00000 +  0.00000 *I)] 
+
+
+Antiunitary_op: not exist
+
+---------------------------------------------------------
+
+BNS number:  41.214   co-irrep label:  E1   Dim:  1
+Representation matrices:
+nop: 1
+[  (       0 + -1.00000 *I)  ]
+
+BNS number:  41.214   co-irrep label:  E2   Dim:  1
+Representation matrices:
+nop: 1
+[  (       0 +  1.00000 *I)  ]
+
+BNS number:  41.214   co-irrep label:  E3d   Dim:  1
+Representation matrices:
+nop: 1
+[  (-1.00000 +        0 *I)  ]
+
+BNS number:  41.214   co-irrep label:  E4d   Dim:  1
+Representation matrices:
+nop: 1
+[  ( 1.00000 +        0 *I)  ]
+
+
+
+*********************************************************
+
+
+BNS number: 41.214  HSP: GM
+  k = ( 0.000  0.000  0.000) (conv)  ( 0.000  0.000  0.000) (prim) 
+
+Symmetry operations:
+op:   1 (conv)
+  O(3):  [  -1    0    0]
+         [   0    1    0]
+         [   0    0    1]
+  tau:   ( 0.50000  0.00000  0.50000)
+  SU(2): [( 0.00000 +  0.00000 *I)  (-0.00000 + -1.00000 *I)] 
+         [(-0.00000 + -1.00000 *I)  ( 0.00000 +  0.00000 *I)] 
+
+
+Antiunitary_op: Tg (conv)
+  O(3):  [  -1    0    0]
+         [   0   -1    0]
+         [   0    0    1]
+  tau:   ( 0.00000  0.00000  0.00000)
+  SU(2): [( 0.00000 +  0.00000 *I)  ( 0.00000 + -1.00000 *I)] 
+         [( 0.00000 + -1.00000 *I)  ( 0.00000 +  0.00000 *I)] 
+
+
+---------------------------------------------------------
+
+BNS number:  41.214   co-irrep label:  GM1   Dim:  1
+Representation matrices:
+nop: 1
+[  ( 1.00000 +        0 *I)  ]
+
+Antiunitary_op:
+[  ( 1.00000 +        0 *I)  ]
+
+---------------------------------------------------------
+
+BNS number:  41.214   co-irrep label:  GM2   Dim:  1
+Representation matrices:
+nop: 1
+[  (-1.00000 +        0 *I)  ]
+
+Antiunitary_op:
+[  ( 1.00000 +        0 *I)  ]
+
+---------------------------------------------------------
+
+BNS number:  41.214   co-irrep label:  GM3d   Dim:  1
+Representation matrices:
+nop: 1
+[  (       0 + -1.00000 *I)  ]
+
+Antiunitary_op:
+[  ( 1.00000 +        0 *I)  ]
+
+---------------------------------------------------------
+
+BNS number:  41.214   co-irrep label:  GM4d   Dim:  1
+Representation matrices:
+nop: 1
+[  (       0 +  1.00000 *I)  ]
+
+Antiunitary_op:
+[  ( 1.00000 +        0 *I)  ]
+
+---------------------------------------------------------
+
+
+
+*********************************************************
+
+
+BNS number: 41.214  HSP: Y
+  k = ( 0.000  0.000 -1.000) (conv)  ( 0.000 -0.500 -0.500) (prim) 
+
+Symmetry operations:
+op:   1 (conv)
+  O(3):  [  -1    0    0]
+         [   0    1    0]
+         [   0    0    1]
+  tau:   ( 0.50000  0.00000  0.50000)
+  SU(2): [( 0.00000 +  0.00000 *I)  (-0.00000 + -1.00000 *I)] 
+         [(-0.00000 + -1.00000 *I)  ( 0.00000 +  0.00000 *I)] 
+
+
+Antiunitary_op: Tg (conv)
+  O(3):  [  -1    0    0]
+         [   0   -1    0]
+         [   0    0    1]
+  tau:   ( 0.00000  0.00000  0.00000)
+  SU(2): [( 0.00000 +  0.00000 *I)  ( 0.00000 + -1.00000 *I)] 
+         [( 0.00000 + -1.00000 *I)  ( 0.00000 +  0.00000 *I)] 
+
+
+---------------------------------------------------------
+
+BNS number:  41.214   co-irrep label:  Y1   Dim:  1
+Representation matrices:
+nop: 1
+[  (-1.00000 +        0 *I)  ]
+
+Antiunitary_op:
+[  ( 1.00000 +        0 *I)  ]
+
+---------------------------------------------------------
+
+BNS number:  41.214   co-irrep label:  Y2   Dim:  1
+Representation matrices:
+nop: 1
+[  ( 1.00000 +        0 *I)  ]
+
+Antiunitary_op:
+[  ( 1.00000 +        0 *I)  ]
+
+---------------------------------------------------------
+
+BNS number:  41.214   co-irrep label:  Y3d   Dim:  1
+Representation matrices:
+nop: 1
+[  (       0 +  1.00000 *I)  ]
+
+Antiunitary_op:
+[  ( 1.00000 +        0 *I)  ]
+
+---------------------------------------------------------
+
+BNS number:  41.214   co-irrep label:  Y4d   Dim:  1
+Representation matrices:
+nop: 1
+[  (       0 + -1.00000 *I)  ]
+
+Antiunitary_op:
+[  ( 1.00000 +        0 *I)  ]
+
+---------------------------------------------------------
+
+
+
+*********************************************************
+
+
+BNS number: 41.214  HSP: Z
+  k = ( 0.500  0.000  0.000) (conv)  ( 0.500  0.000  0.000) (prim) 
+
+Symmetry operations:
+op:   1 (conv)
+  O(3):  [  -1    0    0]
+         [   0    1    0]
+         [   0    0    1]
+  tau:   ( 0.50000  0.00000  0.50000)
+  SU(2): [( 0.00000 +  0.00000 *I)  (-0.00000 + -1.00000 *I)] 
+         [(-0.00000 + -1.00000 *I)  ( 0.00000 +  0.00000 *I)] 
+
+
+Antiunitary_op: Tg (conv)
+  O(3):  [  -1    0    0]
+         [   0   -1    0]
+         [   0    0    1]
+  tau:   ( 0.00000  0.00000  0.00000)
+  SU(2): [( 0.00000 +  0.00000 *I)  ( 0.00000 + -1.00000 *I)] 
+         [( 0.00000 + -1.00000 *I)  ( 0.00000 +  0.00000 *I)] 
+
+
+---------------------------------------------------------
+
+BNS number:  41.214   co-irrep label:  Z1_Z2   Dim:  2
+Representation matrices:
+nop: 1
+[  ( 1.00000 +        0 *I)            0               ]
+[            0               (-1.00000 +        0 *I)  ]
+
+Antiunitary_op:
+[            0               ( 1.00000 +        0 *I)  ]
+[  ( 1.00000 +        0 *I)            0               ]
+
+---------------------------------------------------------
+
+BNS number:  41.214   co-irrep label:  Z3d_Z4d   Dim:  2
+Representation matrices:
+nop: 1
+[  (       0 + -1.00000 *I)            0               ]
+[            0               (       0 +  1.00000 *I)  ]
+
+Antiunitary_op:
+[            0               ( 1.00000 +        0 *I)  ]
+[  ( 1.00000 +        0 *I)            0               ]
+
+---------------------------------------------------------
+
+
+
+*********************************************************
+
+

@@ -1,0 +1,549 @@
+Shubnikov SG (BNS number): 166.97   SSG type:  1   Unitary subgroup:  166
+Irreducible co-representation (co-irrep) data of HSPs:
+
+BNS number: 166.97  HSP: F
+  k = ( 0.000  0.500  1.000) (conv)  ( 0.500  0.500  0.000) (prim) 
+
+Symmetry operations:
+op:   1 (conv)
+  O(3):  [   1   -1    0]
+         [   0   -1    0]
+         [   0    0   -1]
+  tau:   ( 0.00000  0.00000  0.00000)
+  SU(2): [( 0.00000 +  0.00000 *I)  (-1.00000 +  0.00000 *I)] 
+         [( 1.00000 +  0.00000 *I)  ( 0.00000 +  0.00000 *I)] 
+op:   2 (conv)
+  O(3):  [  -1    0    0]
+         [   0   -1    0]
+         [   0    0   -1]
+  tau:   ( 0.00000  0.00000  0.00000)
+  SU(2): [( 1.00000 +  0.00000 *I)  ( 0.00000 +  0.00000 *I)] 
+         [( 0.00000 +  0.00000 *I)  ( 1.00000 +  0.00000 *I)] 
+
+
+Antiunitary_op: not exist
+
+---------------------------------------------------------
+
+BNS number:  166.97   co-irrep label:  F1+   Dim:  1
+Representation matrices:
+nop: 1
+[  ( 1.00000 +        0 *I)  ]
+
+nop: 2
+[  ( 1.00000 +        0 *I)  ]
+
+BNS number:  166.97   co-irrep label:  F1-   Dim:  1
+Representation matrices:
+nop: 1
+[  ( 1.00000 +        0 *I)  ]
+
+nop: 2
+[  (-1.00000 +        0 *I)  ]
+
+BNS number:  166.97   co-irrep label:  F2+   Dim:  1
+Representation matrices:
+nop: 1
+[  (-1.00000 +        0 *I)  ]
+
+nop: 2
+[  ( 1.00000 +        0 *I)  ]
+
+BNS number:  166.97   co-irrep label:  F2-   Dim:  1
+Representation matrices:
+nop: 1
+[  (-1.00000 +        0 *I)  ]
+
+nop: 2
+[  (-1.00000 +        0 *I)  ]
+
+BNS number:  166.97   co-irrep label:  F3d   Dim:  1
+Representation matrices:
+nop: 1
+[  (       0 + -1.00000 *I)  ]
+
+nop: 2
+[  ( 1.00000 +        0 *I)  ]
+
+BNS number:  166.97   co-irrep label:  F4d   Dim:  1
+Representation matrices:
+nop: 1
+[  (       0 +  1.00000 *I)  ]
+
+nop: 2
+[  ( 1.00000 +        0 *I)  ]
+
+BNS number:  166.97   co-irrep label:  F5d   Dim:  1
+Representation matrices:
+nop: 1
+[  (       0 + -1.00000 *I)  ]
+
+nop: 2
+[  (-1.00000 +        0 *I)  ]
+
+BNS number:  166.97   co-irrep label:  F6d   Dim:  1
+Representation matrices:
+nop: 1
+[  (       0 +  1.00000 *I)  ]
+
+nop: 2
+[  (-1.00000 +        0 *I)  ]
+
+
+
+*********************************************************
+
+
+BNS number: 166.97  HSP: GM
+  k = ( 0.000  0.000  0.000) (conv)  ( 0.000  0.000  0.000) (prim) 
+
+Symmetry operations:
+op:   1 (conv)
+  O(3):  [   0   -1    0]
+         [   1   -1    0]
+         [   0    0    1]
+  tau:   ( 0.00000  0.00000  0.00000)
+  SU(2): [( 0.50000 +  0.86603 *I)  ( 0.00000 +  0.00000 *I)] 
+         [( 0.00000 +  0.00000 *I)  ( 0.50000 + -0.86603 *I)] 
+op:   3 (conv)
+  O(3):  [   0    1    0]
+         [   1    0    0]
+         [   0    0   -1]
+  tau:   ( 0.00000  0.00000  0.00000)
+  SU(2): [( 0.00000 +  0.00000 *I)  (-0.50000 + -0.86603 *I)] 
+         [( 0.50000 + -0.86603 *I)  ( 0.00000 +  0.00000 *I)] 
+op:   6 (conv)
+  O(3):  [  -1    0    0]
+         [   0   -1    0]
+         [   0    0   -1]
+  tau:   ( 0.00000  0.00000  0.00000)
+  SU(2): [( 1.00000 +  0.00000 *I)  ( 0.00000 +  0.00000 *I)] 
+         [( 0.00000 +  0.00000 *I)  ( 1.00000 +  0.00000 *I)] 
+
+
+Antiunitary_op: not exist
+
+---------------------------------------------------------
+
+BNS number:  166.97   co-irrep label:  GM1+   Dim:  1
+Representation matrices:
+nop: 1
+[  ( 1.00000 +        0 *I)  ]
+
+nop: 3
+[  ( 1.00000 +        0 *I)  ]
+
+nop: 6
+[  ( 1.00000 +        0 *I)  ]
+
+BNS number:  166.97   co-irrep label:  GM1-   Dim:  1
+Representation matrices:
+nop: 1
+[  ( 1.00000 +        0 *I)  ]
+
+nop: 3
+[  ( 1.00000 +        0 *I)  ]
+
+nop: 6
+[  (-1.00000 +        0 *I)  ]
+
+BNS number:  166.97   co-irrep label:  GM2+   Dim:  1
+Representation matrices:
+nop: 1
+[  ( 1.00000 +        0 *I)  ]
+
+nop: 3
+[  (-1.00000 +        0 *I)  ]
+
+nop: 6
+[  ( 1.00000 +        0 *I)  ]
+
+BNS number:  166.97   co-irrep label:  GM2-   Dim:  1
+Representation matrices:
+nop: 1
+[  ( 1.00000 +        0 *I)  ]
+
+nop: 3
+[  (-1.00000 +        0 *I)  ]
+
+nop: 6
+[  (-1.00000 +        0 *I)  ]
+
+BNS number:  166.97   co-irrep label:  GM3+   Dim:  2
+Representation matrices:
+nop: 1
+[  (-0.50000 +  0.86603 *I)            0               ]
+[            0               (-0.50000 + -0.86603 *I)  ]
+
+nop: 3
+[            0               ( 1.00000 +        0 *I)  ]
+[  ( 1.00000 +        0 *I)            0               ]
+
+nop: 6
+[  ( 1.00000 +        0 *I)            0               ]
+[            0               ( 1.00000 +        0 *I)  ]
+
+BNS number:  166.97   co-irrep label:  GM3-   Dim:  2
+Representation matrices:
+nop: 1
+[  (-0.50000 +  0.86603 *I)            0               ]
+[            0               (-0.50000 + -0.86603 *I)  ]
+
+nop: 3
+[            0               ( 1.00000 +        0 *I)  ]
+[  ( 1.00000 +        0 *I)            0               ]
+
+nop: 6
+[  (-1.00000 +        0 *I)            0               ]
+[            0               (-1.00000 +        0 *I)  ]
+
+BNS number:  166.97   co-irrep label:  GM4d   Dim:  1
+Representation matrices:
+nop: 1
+[  (-1.00000 +        0 *I)  ]
+
+nop: 3
+[  (       0 + -1.00000 *I)  ]
+
+nop: 6
+[  ( 1.00000 +        0 *I)  ]
+
+BNS number:  166.97   co-irrep label:  GM5d   Dim:  1
+Representation matrices:
+nop: 1
+[  (-1.00000 +        0 *I)  ]
+
+nop: 3
+[  (       0 +  1.00000 *I)  ]
+
+nop: 6
+[  ( 1.00000 +        0 *I)  ]
+
+BNS number:  166.97   co-irrep label:  GM6d   Dim:  1
+Representation matrices:
+nop: 1
+[  (-1.00000 +        0 *I)  ]
+
+nop: 3
+[  (       0 + -1.00000 *I)  ]
+
+nop: 6
+[  (-1.00000 +        0 *I)  ]
+
+BNS number:  166.97   co-irrep label:  GM7d   Dim:  1
+Representation matrices:
+nop: 1
+[  (-1.00000 +        0 *I)  ]
+
+nop: 3
+[  (       0 +  1.00000 *I)  ]
+
+nop: 6
+[  (-1.00000 +        0 *I)  ]
+
+BNS number:  166.97   co-irrep label:  GM8d   Dim:  2
+Representation matrices:
+nop: 1
+[  ( 0.50000 + -0.86603 *I)            0               ]
+[            0               ( 0.50000 +  0.86603 *I)  ]
+
+nop: 3
+[            0               (-1.00000 +        0 *I)  ]
+[  ( 1.00000 +        0 *I)            0               ]
+
+nop: 6
+[  ( 1.00000 +        0 *I)            0               ]
+[            0               ( 1.00000 +        0 *I)  ]
+
+BNS number:  166.97   co-irrep label:  GM9d   Dim:  2
+Representation matrices:
+nop: 1
+[  ( 0.50000 + -0.86603 *I)            0               ]
+[            0               ( 0.50000 +  0.86603 *I)  ]
+
+nop: 3
+[            0               (-1.00000 +        0 *I)  ]
+[  ( 1.00000 +        0 *I)            0               ]
+
+nop: 6
+[  (-1.00000 +        0 *I)            0               ]
+[            0               (-1.00000 +        0 *I)  ]
+
+
+
+*********************************************************
+
+
+BNS number: 166.97  HSP: L
+  k = (-0.500  0.500  0.500) (conv)  ( 0.000  0.500  0.000) (prim) 
+
+Symmetry operations:
+op:   1 (conv)
+  O(3):  [   0    1    0]
+         [   1    0    0]
+         [   0    0   -1]
+  tau:   ( 0.00000  0.00000  0.00000)
+  SU(2): [( 0.00000 +  0.00000 *I)  (-0.50000 + -0.86603 *I)] 
+         [( 0.50000 + -0.86603 *I)  ( 0.00000 +  0.00000 *I)] 
+op:   2 (conv)
+  O(3):  [  -1    0    0]
+         [   0   -1    0]
+         [   0    0   -1]
+  tau:   ( 0.00000  0.00000  0.00000)
+  SU(2): [( 1.00000 +  0.00000 *I)  ( 0.00000 +  0.00000 *I)] 
+         [( 0.00000 +  0.00000 *I)  ( 1.00000 +  0.00000 *I)] 
+
+
+Antiunitary_op: not exist
+
+---------------------------------------------------------
+
+BNS number:  166.97   co-irrep label:  L1+   Dim:  1
+Representation matrices:
+nop: 1
+[  ( 1.00000 +        0 *I)  ]
+
+nop: 2
+[  ( 1.00000 +        0 *I)  ]
+
+BNS number:  166.97   co-irrep label:  L1-   Dim:  1
+Representation matrices:
+nop: 1
+[  ( 1.00000 +        0 *I)  ]
+
+nop: 2
+[  (-1.00000 +        0 *I)  ]
+
+BNS number:  166.97   co-irrep label:  L2+   Dim:  1
+Representation matrices:
+nop: 1
+[  (-1.00000 +        0 *I)  ]
+
+nop: 2
+[  ( 1.00000 +        0 *I)  ]
+
+BNS number:  166.97   co-irrep label:  L2-   Dim:  1
+Representation matrices:
+nop: 1
+[  (-1.00000 +        0 *I)  ]
+
+nop: 2
+[  (-1.00000 +        0 *I)  ]
+
+BNS number:  166.97   co-irrep label:  L3d   Dim:  1
+Representation matrices:
+nop: 1
+[  (       0 + -1.00000 *I)  ]
+
+nop: 2
+[  ( 1.00000 +        0 *I)  ]
+
+BNS number:  166.97   co-irrep label:  L4d   Dim:  1
+Representation matrices:
+nop: 1
+[  (       0 +  1.00000 *I)  ]
+
+nop: 2
+[  ( 1.00000 +        0 *I)  ]
+
+BNS number:  166.97   co-irrep label:  L5d   Dim:  1
+Representation matrices:
+nop: 1
+[  (       0 + -1.00000 *I)  ]
+
+nop: 2
+[  (-1.00000 +        0 *I)  ]
+
+BNS number:  166.97   co-irrep label:  L6d   Dim:  1
+Representation matrices:
+nop: 1
+[  (       0 +  1.00000 *I)  ]
+
+nop: 2
+[  (-1.00000 +        0 *I)  ]
+
+
+
+*********************************************************
+
+
+BNS number: 166.97  HSP: T
+  k = ( 0.000  0.000  1.500) (conv)  ( 0.500  0.500  0.500) (prim) 
+
+Symmetry operations:
+op:   1 (conv)
+  O(3):  [   0   -1    0]
+         [   1   -1    0]
+         [   0    0    1]
+  tau:   ( 0.00000  0.00000  0.00000)
+  SU(2): [( 0.50000 +  0.86603 *I)  ( 0.00000 +  0.00000 *I)] 
+         [( 0.00000 +  0.00000 *I)  ( 0.50000 + -0.86603 *I)] 
+op:   3 (conv)
+  O(3):  [   0    1    0]
+         [   1    0    0]
+         [   0    0   -1]
+  tau:   ( 0.00000  0.00000  0.00000)
+  SU(2): [( 0.00000 +  0.00000 *I)  (-0.50000 + -0.86603 *I)] 
+         [( 0.50000 + -0.86603 *I)  ( 0.00000 +  0.00000 *I)] 
+op:   6 (conv)
+  O(3):  [  -1    0    0]
+         [   0   -1    0]
+         [   0    0   -1]
+  tau:   ( 0.00000  0.00000  0.00000)
+  SU(2): [( 1.00000 +  0.00000 *I)  ( 0.00000 +  0.00000 *I)] 
+         [( 0.00000 +  0.00000 *I)  ( 1.00000 +  0.00000 *I)] 
+
+
+Antiunitary_op: not exist
+
+---------------------------------------------------------
+
+BNS number:  166.97   co-irrep label:  T1+   Dim:  1
+Representation matrices:
+nop: 1
+[  ( 1.00000 +        0 *I)  ]
+
+nop: 3
+[  ( 1.00000 +        0 *I)  ]
+
+nop: 6
+[  ( 1.00000 +        0 *I)  ]
+
+BNS number:  166.97   co-irrep label:  T1-   Dim:  1
+Representation matrices:
+nop: 1
+[  ( 1.00000 +        0 *I)  ]
+
+nop: 3
+[  ( 1.00000 +        0 *I)  ]
+
+nop: 6
+[  (-1.00000 +        0 *I)  ]
+
+BNS number:  166.97   co-irrep label:  T2+   Dim:  1
+Representation matrices:
+nop: 1
+[  ( 1.00000 +        0 *I)  ]
+
+nop: 3
+[  (-1.00000 +        0 *I)  ]
+
+nop: 6
+[  ( 1.00000 +        0 *I)  ]
+
+BNS number:  166.97   co-irrep label:  T2-   Dim:  1
+Representation matrices:
+nop: 1
+[  ( 1.00000 +        0 *I)  ]
+
+nop: 3
+[  (-1.00000 +        0 *I)  ]
+
+nop: 6
+[  (-1.00000 +        0 *I)  ]
+
+BNS number:  166.97   co-irrep label:  T3+   Dim:  2
+Representation matrices:
+nop: 1
+[  (-0.50000 +  0.86603 *I)            0               ]
+[            0               (-0.50000 + -0.86603 *I)  ]
+
+nop: 3
+[            0               ( 1.00000 +        0 *I)  ]
+[  ( 1.00000 +        0 *I)            0               ]
+
+nop: 6
+[  ( 1.00000 +        0 *I)            0               ]
+[            0               ( 1.00000 +        0 *I)  ]
+
+BNS number:  166.97   co-irrep label:  T3-   Dim:  2
+Representation matrices:
+nop: 1
+[  (-0.50000 +  0.86603 *I)            0               ]
+[            0               (-0.50000 + -0.86603 *I)  ]
+
+nop: 3
+[            0               ( 1.00000 +        0 *I)  ]
+[  ( 1.00000 +        0 *I)            0               ]
+
+nop: 6
+[  (-1.00000 +        0 *I)            0               ]
+[            0               (-1.00000 +        0 *I)  ]
+
+BNS number:  166.97   co-irrep label:  T4d   Dim:  1
+Representation matrices:
+nop: 1
+[  (-1.00000 +        0 *I)  ]
+
+nop: 3
+[  (       0 + -1.00000 *I)  ]
+
+nop: 6
+[  ( 1.00000 +        0 *I)  ]
+
+BNS number:  166.97   co-irrep label:  T5d   Dim:  1
+Representation matrices:
+nop: 1
+[  (-1.00000 +        0 *I)  ]
+
+nop: 3
+[  (       0 +  1.00000 *I)  ]
+
+nop: 6
+[  ( 1.00000 +        0 *I)  ]
+
+BNS number:  166.97   co-irrep label:  T6d   Dim:  1
+Representation matrices:
+nop: 1
+[  (-1.00000 +        0 *I)  ]
+
+nop: 3
+[  (       0 + -1.00000 *I)  ]
+
+nop: 6
+[  (-1.00000 +        0 *I)  ]
+
+BNS number:  166.97   co-irrep label:  T7d   Dim:  1
+Representation matrices:
+nop: 1
+[  (-1.00000 +        0 *I)  ]
+
+nop: 3
+[  (       0 +  1.00000 *I)  ]
+
+nop: 6
+[  (-1.00000 +        0 *I)  ]
+
+BNS number:  166.97   co-irrep label:  T8d   Dim:  2
+Representation matrices:
+nop: 1
+[  ( 0.50000 + -0.86603 *I)            0               ]
+[            0               ( 0.50000 +  0.86603 *I)  ]
+
+nop: 3
+[            0               (-1.00000 +        0 *I)  ]
+[  ( 1.00000 +        0 *I)            0               ]
+
+nop: 6
+[  ( 1.00000 +        0 *I)            0               ]
+[            0               ( 1.00000 +        0 *I)  ]
+
+BNS number:  166.97   co-irrep label:  T9d   Dim:  2
+Representation matrices:
+nop: 1
+[  ( 0.50000 + -0.86603 *I)            0               ]
+[            0               ( 0.50000 +  0.86603 *I)  ]
+
+nop: 3
+[            0               (-1.00000 +        0 *I)  ]
+[  ( 1.00000 +        0 *I)            0               ]
+
+nop: 6
+[  (-1.00000 +        0 *I)            0               ]
+[            0               (-1.00000 +        0 *I)  ]
+
+
+
+*********************************************************
+
+
